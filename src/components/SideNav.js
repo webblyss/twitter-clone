@@ -48,7 +48,7 @@ const SideNav = () => {
         </div>
 
         <div role='button' className=" mx-auto hidden md:block p-4 text-center text-white">
-        <img src={user.imageUrl} className='w-[40px] h-[40px] rounded-full cursor-pointer mt-4' alt="" />
+        <img src={IMG} className='w-[40px] h-[40px] rounded-full cursor-pointer mt-4' alt="" />
         </div>
         <div role='button' className="md:hidden sm:block h-[40px] w-[40px] mx-auto flex justify-center items-center  bg-blue-500 rounded-full text-center text-white">
         <FaFeatherAlt className='text-2xl'/>

@@ -14,12 +14,7 @@ const FeedContainer = () => {
   const [_user,set_User] = useState('');
   const [tweet,setTweets] = useState([]); 
 
-  useEffect(()=>{
-    const  user = localStorage.getItem('user');
-    set_User(JSON.parse(user)); 
-    //  console.log(_user.profile)
-     setUser(_user)
-  },[_user,setUser])
+ 
 
 
   return (
