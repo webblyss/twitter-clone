@@ -44,5 +44,20 @@ The application was developed </Code> solo.
 
 
 ## THIS IS HOW THE APPLICATION LOOKS LIKE
-()
+
+## LOGIN PAGE USING 0auth2
+
+![Screenshot 2023-04-15 at 8 03 28 PM](https://user-images.githubusercontent.com/60282806/232251839-e6aefe42-13e0-4a4a-9647-36c866f570d7.png)
+
+## HOMEPAGE
+![Screenshot 2023-04-15 at 8 23 35 PM](https://user-images.githubusercontent.com/60282806/232251867-e4fe82d0-f9ed-4a2a-ac24-e5d4114f6729.png)
+
+
+
+
+
+
+
+
+
 
